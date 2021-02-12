@@ -4,7 +4,7 @@ Nesse primeiro desafio eu precisava exibir textos usando parágrafos e quebras d
 
 Minha solução:
 
-[![desafio001.png](https://i.postimg.cc/pLnp3Sk0/desafio001.png)](https://postimg.cc/DSnvXB9s)
+[Imgur](https://i.imgur.com/2rUvb8E.png)
 
 Tags que eu aprendi nesse desafio:
 * ```<p>```
