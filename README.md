@@ -55,3 +55,18 @@ Nesse desafio eu precisava usar os conceitos de listas e emojis, abordadas no cu
 
 * ```<ul>``` 
 * ```<li>```
+
+
+
+### 005 - Desafio Social
+
+Nesse desafio eu precisava criar uma página para falar um pouco sobre mim e divulgar minhas redes sociais.
+
+* [Navegue pelo código](https://github.com/techmateus/html-css/blob/main/modulo-1/005-desafio-social/index.html)
+
+#### Tags que aprendi e reforcei nesse desafio:
+
+* ```<ul>```
+* ```<img>```
+* ```<a>```
+
