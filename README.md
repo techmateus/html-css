@@ -29,3 +29,17 @@ Nesse desafio eu precisava criar uma página com duas imagens, uma no conteúdo 
 
 * ```<link:favicon>```
 * ```<img>```
+
+
+
+### 003 - Desafio do Mapa Mundi
+
+Nesse desafio eu precisava organizar as imagens para formar o Mapa Mundi. Foi um desafio para reforçar o entendimento sobre as quebras de linhas numa página.
+
+* [Navegue pelo código](https://github.com/techmateus/html-css/blob/main/modulo-1/003-desafio-mapa-mundi/index.html)
+
+#### Tags que foram reforçadas nesse desafio:
+
+* ```<br>```
+* ```<img>```
+
