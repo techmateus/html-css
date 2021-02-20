@@ -43,3 +43,15 @@ Nesse desafio eu precisava organizar as imagens para formar o Mapa Mundi. Foi um
 * ```<br>```
 * ```<img>```
 
+
+
+### 004 - Desafio dos Emojis
+
+Nesse desafio eu precisava usar os conceitos de listas e emojis, abordadas no curso, para exibir na página meus emojis favoritos juntamente com o código Unicode de cada um.
+
+* [Navegue pelo código](https://github.com/techmateus/html-css/tree/main/modulo-1/004-desafio-emoji)
+
+#### Tags que aprendi nesse desafio:
+
+* ```<ul>``` 
+* ```<li>```
