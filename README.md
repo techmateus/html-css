@@ -96,3 +96,19 @@ Nesse desafio eu precisava exibir uma imagem que se adapta a diferentes tipos de
 * ```<picture>```
 * ```<source:media:type>```
 
+
+
+### 008 - Desafio da Navegação
+
+Nesse desafio eu precisava criar navegação entre as páginas. Nesse desafio foi utilizado estilos das CSS, na página principal (área cinza) criei uma lista com os links para a área verde e área amarela.
+
+* [Navegue pelo código](https://github.com/techmateus/html-css/tree/main/modulo-1/008-desafio-navegacao)
+
+#### Tags e Propriedades que aprendi nesse desafio:
+
+* ```<style>```
+* ```background-color```
+* ```color```
+* ```font-family```
+* ```font-size```
+
