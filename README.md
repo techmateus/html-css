@@ -82,3 +82,17 @@ Nesse desafio eu precisava adicionar uma lista com as coisas de HTML5 que estou 
 
 * ```<ul>```
 * ```<abbr>```
+
+
+
+### 007 - Desafio da Imagem Flexível
+
+Nesse desafio eu precisava exibir uma imagem que se adapta a diferentes tipos de largura de tela.
+
+* [Navegue pelo Código](https://github.com/techmateus/html-css/blob/main/modulo-1/007-desafio-imagem-flexivel/index.html)
+
+#### Tags que aprendi nesse desafio:
+
+* ```<picture>```
+* ```<source:media:type>```
+
