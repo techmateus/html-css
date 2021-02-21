@@ -70,3 +70,15 @@ Nesse desafio eu precisava criar uma página para falar um pouco sobre mim e div
 * ```<img>```
 * ```<a>```
 
+
+
+### 006 - Desafio das Tags
+
+Nesse desafio eu precisava adicionar uma lista com as coisas de HTML5 que estou aprendendo no curso, e quando passa o mouse sobre um termo mostra qual é a tag utilizada para fazer determinada coisa.
+
+* [Navegue pelo código](https://github.com/techmateus/html-css/blob/main/modulo-1/006-desafio-tags/index.html)
+
+#### Tags que aprendi e reforcei nesse desafio:
+
+* ```<ul>```
+* ```<abbr>```
