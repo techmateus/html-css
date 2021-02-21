@@ -112,3 +112,17 @@ Nesse desafio eu precisava criar navegação entre as páginas. Nesse desafio fo
 * ```font-family```
 * ```font-size```
 
+
+
+### 009 - Desafio dos Vídeos
+
+Nesse desafio eu precisava indicar alguns vídeos na página principal, ao clicar em qualquer uma das thumbs abrirá uma página especial para cada um, onde pode assistir o vídeo diretamente na página ou acessar a playlist completa no YouTube.
+
+* [Navegue pelo código](https://github.com/techmateus/html-css/tree/main/modulo-1/009-desafio-videos)
+
+####  Tags e propriedades que aprendi nesse desafio:
+
+* ```<iframe>```
+* ```text-align```
+* ```text-decoration```
+
